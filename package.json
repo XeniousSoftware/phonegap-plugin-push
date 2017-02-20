@@ -1,7 +1,7 @@
 {
   "name": "xenious-phonegap-plugin-push",
   "description": "Register and receive push notifications.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "http://github.com/phonegap/phonegap-plugin-push#readme",
   "repository": {
     "type": "git",
