@@ -44,8 +44,7 @@
     </config-file>
     
     <preference name="FCM_VERSION" default="11.0.1"/>
-
-    <framework src="com.android.support:support-v13:26.+"/>
+    
     <framework src="me.leolin:ShortcutBadger:1.1.17@aar"/>
     <framework src="com.google.firebase:firebase-messaging:$FCM_VERSION"/>
     <framework src="push.gradle" custom="true" type="gradleReference"/>
